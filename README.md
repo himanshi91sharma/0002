@@ -15,9 +15,5 @@ A premium e-commerce product details page designed in Figma as part of a UI/UX i
 - Auto Layout
 - Interactive Components
 - Prototyping
-## Project Screenshots
-(Add your screenshots here)
-## Prototype Link
-(Add your Figma prototype link)
 ## Author
 Himanshi Sharma
